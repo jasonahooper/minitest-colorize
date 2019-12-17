@@ -85,4 +85,4 @@ module MiniTest
   end
 end
 
-MiniTest::Unit.output = MiniTest::Colorize.new
+# MiniTest::Unit.output = MiniTest::Colorize.new
